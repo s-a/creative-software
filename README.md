@@ -1,2 +1,18 @@
 # creative-software
 A list of graphic, video, audio and 3d programs
+
+
+## Open Source
+ - http://www.makehuman.org/ MakeHuman is the free and open source software to create realistic 3d humans for Illustrations, Animations, Games and Zbrush/Mudbox sculpting
+ - https://krita.org/ Krita is a FREE digital painting and illustration application.
+ - https://www.blender.org Photorealistic Rendering and much more 
+ - http://www.colorschemer.com/ Simple but very effective color schemer even online at http://www.colorschemer.com/online.html
+ - http://sourceforge.net/projects/audacity/ A free multi-track audio editor and recorder
+ 
+## Resources
+ - https://openclipart.org/ Clipart galery 
+ - http://pixabay.com/ Over 400,000 free photos, vectors and art illustrations
+ - 
+ 
+## Misc
+ - http://dillinger.io/ Online markdown editor with preview
