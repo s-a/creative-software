@@ -9,6 +9,7 @@ A list of graphic, video, audio and 3d programs. Pull requests are welcome!
  - http://www.colorschemer.com/ Simple but very effective color schemer even online at http://www.colorschemer.com/online.html
  - http://sourceforge.net/projects/audacity/ A free multi-track audio editor and recorder
  - https://inkscape.org/ Inkscape is a professional vector graphics editor for Windows, Mac OS X and Linux
+ - http://fontforge.github.io/en-US/ FontForge is a free and open source font editor brought to you by a community of fellow type lovers. 
  
 ## Resources
  - https://openclipart.org/ Clipart galery 
