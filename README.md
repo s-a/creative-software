@@ -15,6 +15,7 @@ A list of graphic, video, audio and 3d programs. Pull requests are welcome!
  - https://openclipart.org/ Clipart galery 
  - http://pixabay.com/ Over 400,000 free photos, vectors and art illustrations
  - http://www.blendswap.com Blend Swap's mission is to create a place where Blender powered 3D Artists can share, exchange, collaborate and learn from other artists in the community
+ - http://www.cgspeed.com Making hobbyist 3D animating easier, cheaper, faster
 
 ## Misc
  - http://dillinger.io/ Online markdown editor with preview
